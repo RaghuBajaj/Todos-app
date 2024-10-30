@@ -1,0 +1,22 @@
+.list{
+    overflow: hidden;
+    margin: 0;
+    margin-top: 1%;
+    padding: 0;
+    padding-left: 1%;
+    padding-right: 1%;
+    width:58%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* border: 1px solid red; */
+}
+.list_item{
+    margin: 0;
+    margin-top: 1%;
+    padding: 0%;
+    width: 100%;
+    overflow: hidden;
+    /* border: 1px solid red; */
+}
